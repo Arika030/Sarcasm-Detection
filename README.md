@@ -1,4 +1,4 @@
-# -Sarcasm-Detection
+# Sarcasm-Detection
 
 Once logged in the breakdown of the google drive is as followed:
 - Training: Folder of the Reddit dataset, contains the modified and the original dataset along with a README detailing the modifications: https://drive.google.com/drive/folders/1FJ08W-KytoyNFP1GevN9PybRWqzAQDHc?usp=drive_link
